@@ -6,7 +6,7 @@ Point it at your resume, tell it what roles to search for, and it will search Li
 
 ## Demo
 
-[![LinkedIn Easy Apply Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+[![LinkedIn Easy Apply Demo](https://img.youtube.com/vi/SVP6IP11TQA/maxresdefault.jpg)](https://youtu.be/SVP6IP11TQA)
 
 ## Features
 
@@ -89,6 +89,12 @@ Or without arguments to be prompted for search keywords:
 3. Clicks Easy Apply and fills out the multi-step form using your resume data
 4. Unchecks "Follow company", submits, and moves to the next job
 5. Reports a summary table of all applied and skipped jobs
+
+## Disclaimer
+
+This tool is provided for educational and personal productivity purposes only. Use it at your own risk. Automated interaction with LinkedIn may violate their [Terms of Service](https://www.linkedin.com/legal/user-agreement). The authors are not responsible for any account restrictions, bans, or other consequences resulting from use of this tool. Be aware that LinkedIn actively detects and throttles automated activity.
+
+This tool does not store or transmit your credentials. All browser sessions run locally via Playwright MCP.
 
 ## License
 
